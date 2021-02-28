@@ -11,7 +11,7 @@ There are several files that may need to be read:
 1. [Entity Relationship Diagram (ERD)](https://github.com/Grace-Bijun-Li/sql-challenge/blob/main/ERD.png)
     - This is the diagram that shows the relationships among the *six* CSV files. Six corresponding tables are created with *primary keys* and *foreign keys* set up to link all the information together.
 2. [schema.sql](https://github.com/Grace-Bijun-Li/sql-challenge/blob/main/schema.sql)
-    - This is the main script of the table schema for each of the six CSV. Data types, primary keys, foreign keys and other constraints are also shown in here. This file can be another form of readig of the ERD.
+    - This is the main script of the table schema for each of the six CSV files. Data types, primary keys, foreign keys and other constraints are also shown in here. This file can be another form of readig of the ERD.
 3. [queries.sql](https://github.com/Grace-Bijun-Li/sql-challenge/blob/main/queries.sql)
     - In this file, various queries are writen to acquire/sorting employee information from the database.
 4. [employee_data_testing.ipynb](https://github.com/Grace-Bijun-Li/sql-challenge/blob/main/employee_data_testing.ipynb)
